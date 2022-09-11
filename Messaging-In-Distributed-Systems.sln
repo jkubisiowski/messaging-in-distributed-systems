@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperStore.Carts", "SuperStore.Carts\SuperStore.Carts.csproj", "{324E3FE6-643B-4A1C-A1DC-C5B8D6BFB50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperStore.Funds", "SuperStore.Funds\SuperStore.Funds.csproj", "{835B0D97-378B-4F93-A567-C9490F0D76D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperStore.Shared", "SuperStore.Shared\SuperStore.Shared.csproj", "{32F612D0-0B7A-4979-B455-F52D46F52A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324E3FE6-643B-4A1C-A1DC-C5B8D6BFB50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324E3FE6-643B-4A1C-A1DC-C5B8D6BFB50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324E3FE6-643B-4A1C-A1DC-C5B8D6BFB50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324E3FE6-643B-4A1C-A1DC-C5B8D6BFB50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835B0D97-378B-4F93-A567-C9490F0D76D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835B0D97-378B-4F93-A567-C9490F0D76D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835B0D97-378B-4F93-A567-C9490F0D76D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835B0D97-378B-4F93-A567-C9490F0D76D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F612D0-0B7A-4979-B455-F52D46F52A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F612D0-0B7A-4979-B455-F52D46F52A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F612D0-0B7A-4979-B455-F52D46F52A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F612D0-0B7A-4979-B455-F52D46F52A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
